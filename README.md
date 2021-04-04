@@ -36,6 +36,9 @@ it lloks kie this:
 
 ```javascript       
 import firebase from 'firebase/app'
+import firestore from 'firebase/firebase-firestore'
+
+
 const firebaseConfig = {
   apiKey: "",
   authDomain: "",
